@@ -36,3 +36,11 @@ public class gajiKaryawan {
 		}
 		totalGaji=(gajiPokok + asuransi + uangMakan);
 		System.out.println("");
+		System.out.println("Gaji Pokok = " + gajiPokok);
+		System.out.println("Asurasi    = " + asuransi);
+		System.out.println("Uang Makan = " + uangMakan);
+		System.out.println("Gaji yang diterima = " + totalGaji);
+		
+	}
+
+}
